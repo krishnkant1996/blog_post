@@ -3,6 +3,11 @@ This Project is for Blog Post.
 There have two pages <br /> 
     1. `Blog List`<br />
     2. `Blog View` <br />
+ 
+ ## Demo URL 
+ [Demo URL](https://krishnkant1996.github.io/blog_post)
+ ## Source code
+  [Sorce code](https://github.com/krishnkant1996/blog_post/)
     
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
